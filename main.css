@@ -12,7 +12,7 @@
 
 #main-content {
     display: grid;
-    /* grid-template-columns: repeat(4, 85px); */
+    grid-template-columns: repeat(4, 85px);
     grid-column-gap: 16px;
     padding-left: 20px;
     padding-right: 20px;
