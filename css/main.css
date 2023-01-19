@@ -25,7 +25,7 @@ article {
 body {
     font-family: 'Red Rose', cursive;
     font-size: 20px;
-    font-weight: 100px;
+    font-weight: normal;
 }
 
 p {
@@ -40,7 +40,7 @@ h2 {
     font-size: 56px;
     font-weight: 300;
     letter-spacing: 3px;
-    background-color: rbg(75,75,75);
+    /* background-color: rbg(75,75,75); */
     color: black;
     padding: 15px;
     
@@ -51,7 +51,7 @@ h3 {
     font-size: 25px;
     font-weight: 300;
     letter-spacing: 1px;
-    background-color: rbg(75,75,75);
+    /* background-color: rbg(75,75,75); */
     color: black;
     padding: 15px;
 }
