@@ -33,10 +33,7 @@ p {
     color: #363636;
 }
 
-h2 h3 {
-    font-family: 'Monoton', cursive;
 
-}
 
 h2 {
     font-family: 'Monoton', cursive;
@@ -47,4 +44,14 @@ h2 {
     color: black;
     padding: 15px;
     
+}
+
+h3 {
+    font-family: 'Monoton', cursive;
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    background-color: rbg(75,75,75);
+    color: black;
+    padding: 15px;
 }
