@@ -7,12 +7,12 @@
     width: 428px;
     border: solid 1px #333;
     border-radius: 10px;
-    background-color: #efefef;
+    background-color: #AAF0A2;
 }
 
 #main-content {
     display: grid;
-    grid-template-columns: repeat(4, 85px);
+    /* grid-template-columns: repeat(4, 85px); */
     grid-column-gap: 16px;
     padding-left: 20px;
     padding-right: 20px;
@@ -34,11 +34,12 @@ p {
 }
 
 h2 h3 {
-    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Monoton', cursive;
+
 }
 
 h2 {
-    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Monoton', cursive;
     font-size: 56px;
     font-weight: 300;
     letter-spacing: 3px;
